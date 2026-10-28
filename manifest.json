@@ -18,7 +18,15 @@
         "logoUrl",
         "membershipEmail"
       ],
-      "preview": "pulsiron/preview.png"
+      "preview": "pulsiron/preview.png",
+      "orderNumber": null,
+      "license": {
+        "templateOrderAmount": null,
+        "creditRemovalPermitted": null,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
     }
   ]
 }
