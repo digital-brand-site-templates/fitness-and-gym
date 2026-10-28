@@ -8,4 +8,4 @@ Static website templates for the Fitness & Gym category.
 
 Preview gallery: https://digital-brand-site-templates.github.io/fitness-and-gym/
 
-- [Pulsiron](pulsiron/)
+- [Puls-iron](puls-iron/)

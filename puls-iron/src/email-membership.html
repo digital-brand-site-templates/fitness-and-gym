@@ -1,0 +1,73 @@
+<!--
+Template Name: Puls-iron Fitness
+File Name: email-membership.html — HTML email (membership)
+Author Name: ThemeVault
+Author URI: https://www.themevault.net/
+License URI: https://www.themevault.net/license/
+Version: 1.0
+
+HOW TO USE: this is a standalone, table-based, inline-styled email. Copy the
+whole file into your email service (Mailchimp, Brevo, SendGrid, Postmark, a
+transactional API…) as the HTML body, replace the  merge fields with
+your provider's tags, and upload the images to a public URL — email clients do
+not load relative image paths. Tested against Gmail, Apple Mail and Outlook.
+-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="x-apple-disable-message-reformatting">
+<title>Welcome to Puls-iron — your {{plan}} membership starts {{start_date}}</title>
+<!--[if mso]><noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript><![endif]-->
+<style>
+  body { margin: 0; padding: 0; background: #f2f2f2; -webkit-text-size-adjust: 100%; }
+  table { border-collapse: collapse; }
+  img { border: 0; display: block; }
+  a { color: #111111; }
+  @media only screen and (max-width: 620px) {
+    .tv-wrap { width: 100% !important; }
+    .tv-pad { padding-left: 20px !important; padding-right: 20px !important; }
+    .btn a { display: block !important; }
+    .stack { display: block !important; width: 100% !important; }
+  }
+</style>
+</head>
+<body style="margin:0;padding:0;background:#f2f2f2;">
+<div style="display:none;max-height:0;overflow:hidden;font-size:1px;line-height:1px;color:#f2f2f2;">Fob collection, your movement screen and the app login, all in one place.</div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f2f2f2;">
+<tr><td align="center" style="padding:32px 12px;">
+  <table role="presentation" class="tv-wrap" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px;max-width:100%;background:#ffffff;border-radius:12px;overflow:hidden;">
+    <tr><td class="tv-pad" style="background:#111111;padding:28px 40px;text-align:center;font-family:Arial,Helvetica,sans-serif;">
+      <a href="https://pulsironfitness.com" style="color:#ffffff;font-size:22px;font-weight:bold;text-decoration:none;letter-spacing:-.3px;">Puls-iron Fitness</a>
+    </td></tr>
+    <tr><td><img src="images/cta.jpg" width="600" alt="" style="width:100%;height:auto;"></td></tr>
+    <tr><td class="tv-pad" style="padding:40px 40px 8px;font-family:Arial,Helvetica,sans-serif;color:#0f0f0f;">
+      <h1 style="margin:0 0 12px;font-size:26px;line-height:1.25;font-weight:bold;">You&#39;re in, {{first_name}}</h1>
+      <p style="margin:0 0 16px;font-size:16px;line-height:1.6;color:#4d4d4d;">Hi {{first_name}},</p>
+      <p style="margin:0 0 16px;font-size:16px;line-height:1.6;color:#4d4d4d;">Your membership is live. Here is everything you need for the first week.</p>
+    </td></tr>
+    
+    <tr><td class="tv-pad" style="padding:8px 40px 8px;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f2f2f2;border-radius:10px;">
+        <tr><td style="padding:12px 18px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4d4d4d;border-bottom:1px solid #e6e6e6;">Plan</td><td align="right" style="padding:12px 18px;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#0f0f0f;border-bottom:1px solid #e6e6e6;">{{plan}}</td></tr><tr><td style="padding:12px 18px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4d4d4d;border-bottom:1px solid #e6e6e6;">Starts</td><td align="right" style="padding:12px 18px;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#0f0f0f;border-bottom:1px solid #e6e6e6;">{{start_date}}</td></tr><tr><td style="padding:12px 18px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4d4d4d;border-bottom:1px solid #e6e6e6;">Movement screen</td><td align="right" style="padding:12px 18px;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#0f0f0f;border-bottom:1px solid #e6e6e6;">{{screen_slot}}</td></tr><tr><td style="padding:12px 18px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4d4d4d;border-bottom:1px solid #e6e6e6;">Member number</td><td align="right" style="padding:12px 18px;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#0f0f0f;border-bottom:1px solid #e6e6e6;">{{ref}}</td></tr>
+      </table>
+    </td></tr>
+    
+    <tr><td class="tv-pad" style="padding:16px 40px 8px;font-family:Arial,Helvetica,sans-serif;">
+      <p style="margin:0 0 20px;font-size:16px;line-height:1.6;color:#4d4d4d;">Collect your fob at reception any time between 6:00 and 22:00 — bring photo ID. Your movement screen is booked below; a coach will meet you at the front desk. Download the member app to book classes up to seven days ahead.</p>
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" class="btn"><tr><td align="center" style="border-radius:8px;background:#111111;"><a href="https://pulsironfitness.com/app" style="display:inline-block;padding:14px 28px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;color:#ffffff;text-decoration:none;border-radius:8px;">Open the member app</a></td></tr></table>
+    </td></tr>
+    <tr><td class="tv-pad" style="padding:24px 40px 40px;font-family:Arial,Helvetica,sans-serif;">
+      <p style="margin:0;font-size:14px;line-height:1.6;color:#4d4d4d;">Questions? Reply to this email or call reception. A coach answers, not a queue.</p>
+      <p style="margin:16px 0 0;font-size:14px;line-height:1.6;color:#4d4d4d;">— The Puls-iron Fitness team</p>
+    </td></tr>
+    <tr><td class="tv-pad" style="background:#f2f2f2;padding:24px 40px;text-align:center;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.6;color:#777777;">
+      Puls-iron Fitness · 48 Halden Park Road, Unit 3, Northgate 22410 · +1 555 014 7700<br>
+      <a href="{{unsubscribe_url}}" style="color:#777777;">Unsubscribe</a> &nbsp;·&nbsp; <a href="https://pulsironfitness.com" style="color:#777777;">Puls-iron Fitness</a>
+    </td></tr>
+  </table>
+</td></tr>
+</table>
+</body>
+</html>

@@ -2,10 +2,10 @@
   "category": "fitness-and-gym",
   "templates": [
     {
-      "name": "Pulsiron",
-      "folder": "pulsiron",
+      "name": "Puls-iron",
+      "folder": "puls-iron",
       "version": "1.0.0",
-      "description": "Pulsiron \u2013 static HTML/Bootstrap Fitness & Gym website template.",
+      "description": "Puls-iron \u2013 static HTML/Bootstrap Fitness & Gym website template.",
       "idealFor": [
         "gyms",
         "fitness studios",
@@ -18,7 +18,7 @@
         "logoUrl",
         "membershipEmail"
       ],
-      "preview": "pulsiron/preview.png",
+      "preview": "puls-iron/preview.png",
       "orderNumber": null,
       "license": {
         "templateOrderAmount": null,
