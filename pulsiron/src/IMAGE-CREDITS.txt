@@ -1,0 +1,46 @@
+Image credits — Pulsiron
+========================================
+
+This template ships the free stock photographs listed below, each under its own
+free licence (Unsplash License / Pexels License / Pixabay Content License —
+commercial use allowed, credit appreciated but not required). To use your own
+photographs, replace the files in images/ keeping the same file names.
+
+about.jpg	Unsplash — photo by Scott Webb (https://unsplash.com/@scottwebb) — https://unsplash.com/photos/woman-holding-brown-ropes-U5kQvbQWoG0 — Unsplash License
+about-2.jpg	Unsplash — photo by Woody Kelly (https://unsplash.com/@woodkell) — https://unsplash.com/photos/a-group-of-people-sitting-on-top-of-a-wooden-floor-uQcWUXFALww — Unsplash License
+avatar-1.jpg	Pexels — photo by Atul Mohan (https://www.pexels.com/@atulm0han) — https://www.pexels.com/photo/professional-businessman-smiling-in-office-corridor-36645466/ — Pexels License
+avatar-2.jpg	Pexels — photo by Korede  Adenola (https://www.pexels.com/@oluwakoreimage) — https://www.pexels.com/photo/confident-professional-woman-portrait-in-studio-31307734/ — Pexels License
+avatar-3.jpg	Pexels — photo by McFollis (https://www.pexels.com/@thisismcpeter) — https://www.pexels.com/photo/confident-businesswoman-in-black-blazer-38581713/ — Pexels License
+avatar-4.jpg	Pexels — photo by Chigozie  Onyeche (https://www.pexels.com/@chigozie-onyeche-18905739) — https://www.pexels.com/photo/grayscale-photo-of-a-woman-smiling-12895422/ — Pexels License
+cta.jpg	Unsplash — photo by Drew Darby (https://unsplash.com/@drewbdarby) — https://unsplash.com/photos/a-close-up-of-a-red-and-white-light-2BTaFPEO5YU — Unsplash License
+detail.jpg	Unsplash — photo by Justin Fisher (https://unsplash.com/@jfish84) — https://unsplash.com/photos/a-group-of-wires-cf_JUo9Ezdw — Unsplash License
+detail-1.jpg	Unsplash — photo by Jason Grant (https://unsplash.com/@jgrant1) — https://unsplash.com/photos/a-row-of-dumbs-in-a-gym-m4Jqyv5VwqY — Unsplash License
+detail-2.jpg	Unsplash — photo by Clark Douglas (https://unsplash.com/@clark_douglas) — https://unsplash.com/photos/a-woman-is-holding-a-bowl-of-food-VepJDAuitQ4 — Unsplash License
+detail-3.jpg	Unsplash — photo by Farhad Ibrahimzade (https://unsplash.com/@ferhadd) — https://unsplash.com/photos/person-holding-silver-fork-and-knife-qgGc_1a6xGc — Unsplash License
+hero.jpg	Unsplash — photo by maxhome fitness (https://unsplash.com/@maxhomefitness_9252382_sink) — https://unsplash.com/photos/a-man-and-woman-exercising-wSUlQl8HPYc — Unsplash License
+list-1.jpg	Unsplash — photo by omid armin (https://unsplash.com/@itsomidarmin) — https://unsplash.com/photos/woman-in-black-tank-top-and-black-pants-sitting-on-black-exercise-equipment-rAh9rA53UWk — Unsplash License
+list-2.jpg	Unsplash — photo by Brooke Lark (https://unsplash.com/@brookelark) — https://unsplash.com/photos/poached-egg-with-vegetables-and-tomatoes-on-blue-plate-jUPOXXRNdcA — Unsplash License
+list-3.jpg	Unsplash — photo by Luke Witter (https://unsplash.com/@lukewitter) — https://unsplash.com/photos/a-man-holding-a-dumbbell-in-a-gym-k47w6BeapCs — Unsplash License
+list-4.jpg	Unsplash — photo by Nikolay Mitev (https://unsplash.com/@nmitev) — https://unsplash.com/photos/red-and-white-track-field-under-blue-sky-during-daytime-Nj7zkf_cYtI — Unsplash License
+list-5.jpg	Unsplash — photo by Ben Soyka (https://unsplash.com/@bsoyka) — https://unsplash.com/photos/a-red-track-with-a-white-arrow-painted-on-it-yWLfld6ErDY — Unsplash License
+list-6.jpg	Unsplash — photo by Raspopova Marina (https://unsplash.com/@raspopovamarisha) — https://unsplash.com/photos/a-group-of-hands-holding-a-childs-hand-yL96L498NDM — Unsplash License
+page-header.jpg	Unsplash — photo by Brooke Lark (https://unsplash.com/@brookelark) — https://unsplash.com/photos/breakfast-bowl-with-fruit-and-coffee-nTZOILVZuOg — Unsplash License
+post-1.jpg	Unsplash — photo by Gabor Kozmon (https://unsplash.com/@seasoulvisuals) — https://unsplash.com/photos/a-group-of-women-doing-yoga-in-a-room-9qCXWZkjlmg — Unsplash License
+post-2.jpg	Unsplash — photo by Ambitious Studio* | Rick Barrett (https://unsplash.com/@weareambitious) — https://unsplash.com/photos/person-in-black-leather-shoes-standing-on-gray-asphalt-road-g_bglWB48JA — Unsplash License
+post-3.jpg	Unsplash — photo by Ambitious Studio* | Rick Barrett (https://unsplash.com/@weareambitious) — https://unsplash.com/photos/a-man-holding-a-gym-equipment-in-a-gym-IXPKJcrOZCI — Unsplash License
+post-4.jpg	Unsplash — photo by Greg Rosenke (https://unsplash.com/@greg_rosenke) — https://unsplash.com/photos/black-and-gray-dumbbells-on-floor-8DcwvlVXIVw — Unsplash License
+profile.jpg	Pexels — photo by Uday Ahir (https://www.pexels.com/@aumgraphy) — https://www.pexels.com/photo/black-and-white-portrait-of-a-smiling-young-woman-39567150/ — Pexels License
+step-1.jpg	Unsplash — photo by lawrence wilcox (https://unsplash.com/@wilcox) — https://unsplash.com/photos/man-in-black-jacket-holding-red-and-black-umbrella-MCP9atiDcAk — Unsplash License
+step-2.jpg	Unsplash — photo by Jannis Brandt (https://unsplash.com/@jannisbrandt) — https://unsplash.com/photos/fruit-lot-on-ceramic-plate-8manzosDSGM — Unsplash License
+step-3.jpg	Unsplash — photo by Carson Greenhalgh (https://unsplash.com/@habitushealth) — https://unsplash.com/photos/brown-rope-in-black-background--lNdKu2OeP4 — Unsplash License
+team-1.jpg	Pexels — photo by August de Richelieu (https://www.pexels.com/@august-de-richelieu) — https://www.pexels.com/photo/a-man-in-striped-shirt-smiling-7432863/ — Pexels License
+team-2.jpg	Pexels — photo by Bhargava Marripati (https://www.pexels.com/@bhargava-marripati-674798) — https://www.pexels.com/photo/man-in-black-crew-neck-shirt-5334146/ — Pexels License
+team-3.jpg	Pexels — photo by Theo  Decker (https://www.pexels.com/@theo-decker) — https://www.pexels.com/photo/woman-in-white-and-brown-striped-long-sleeve-shirt-smiling-5955018/ — Pexels License
+team-4.jpg	Pexels — photo by Van Anh Nguyen (https://www.pexels.com/@van-anh-nguyen-765457258) — https://www.pexels.com/photo/expressive-black-and-white-portrait-of-smiling-adult-31637716/ — Pexels License
+testimonial.jpg	Unsplash — photo by Stavros Papadimitriou (https://unsplash.com/@stevep93) — https://unsplash.com/photos/a-pair-of-dumbbells-a-towel-and-a-pair-of-dumbbells-60xqDdncSKY — Unsplash License
+work-1.jpg	Unsplash — photo by Ambitious Studio* | Rick Barrett (https://unsplash.com/@weareambitious) — https://unsplash.com/photos/a-machine-with-a-large-speaker-AcFdytAyJgk — Unsplash License
+work-2.jpg	Unsplash — photo by Nicolas Hoizey (https://unsplash.com/@nhoizey) — https://unsplash.com/photos/people-running-on-race-track-poa-Ycw1W8U — Unsplash License
+work-3.jpg	Unsplash — photo by Dylan Gillis (https://unsplash.com/@mainermedia) — https://unsplash.com/photos/woman-in-white-tank-top-and-pink-leggings-doing-yoga-YJdCZba0TYE — Unsplash License
+work-4.jpg	Unsplash — photo by Zhivko Minkov (https://unsplash.com/@lazywhiskey) — https://unsplash.com/photos/man-running-on-a-red-track-with-white-lines-2nUwx5QSJ84 — Unsplash License
+work-5.jpg	Unsplash — photo by Annie Spratt (https://unsplash.com/@anniespratt) — https://unsplash.com/photos/woman-in-black-tank-top-and-black-shorts-kneeling-on-mat--l-eemJU0vE — Unsplash License
+work-6.jpg	Unsplash — photo by H&CO (https://unsplash.com/@hngstrm) — https://unsplash.com/photos/photo-of-red-white-race-track-SOvLVb0lJso — Unsplash License

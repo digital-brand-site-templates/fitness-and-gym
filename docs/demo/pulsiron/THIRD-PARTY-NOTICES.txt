@@ -1,0 +1,13 @@
+THIRD-PARTY NOTICES — Pulsiron
+========================================
+
+This template ships the following open-source components, unmodified, under their own licences.
+Licence texts are included in the original distributions linked below.
+
+- Tailwind CSS 4.x (compiled output only) — MIT — https://tailwindcss.com
+- Tabler Icons 3.26.0 — MIT — https://tabler.io/icons
+- Fonts: Bebas Neue (Google Fonts, SIL Open Font License 1.1 / Apache 2.0); Barlow (Google Fonts, SIL Open Font License 1.1 / Apache 2.0)
+- OpenStreetMap embed (contact page): © OpenStreetMap contributors, ODbL — https://www.openstreetmap.org/copyright
+
+Photographs: free stock photographs under the Unsplash License, Pexels License or Pixabay Content License — see IMAGE-CREDITS.txt for each file, photographer and source page.
+Everything else — HTML, CSS (style.css), JavaScript (main.js), copy and design — is original work by ThemeVault.

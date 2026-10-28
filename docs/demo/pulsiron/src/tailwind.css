@@ -1,0 +1,13 @@
+/* Tailwind v4 source. Rebuild after editing any HTML:
+   tailwindcss -i src/tailwind.css -o css/tailwind.css --minify      */
+@import "tailwindcss";
+@source "../*.html";
+@theme {
+  /* breakpoints aligned with the other frameworks: tablet landscape (1024) stays a 2-column layout, 3–4-up needs xl */
+  --breakpoint-sm: 36rem; --breakpoint-md: 48rem; --breakpoint-lg: 62rem; --breakpoint-xl: 75rem; --breakpoint-2xl: 87.5rem;
+  --color-primary: var(--tv-primary);
+  --color-accent: var(--tv-accent);
+  --color-ink: var(--tv-ink);
+  --font-heading: var(--tv-font-heading);
+  --font-body: var(--tv-font-body);
+}

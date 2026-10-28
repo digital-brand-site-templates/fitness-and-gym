@@ -1,0 +1,24 @@
+{
+  "category": "fitness-and-gym",
+  "templates": [
+    {
+      "name": "Pulsiron",
+      "folder": "pulsiron",
+      "version": "1.0.0",
+      "description": "Pulsiron \u2013 static HTML/Bootstrap Fitness & Gym website template.",
+      "idealFor": [
+        "gyms",
+        "fitness studios",
+        "personal trainers",
+        "CrossFit and boxing clubs"
+      ],
+      "requiredClientInputs": [
+        "gymName",
+        "primaryColorHex",
+        "logoUrl",
+        "membershipEmail"
+      ],
+      "preview": "pulsiron/preview.png"
+    }
+  ]
+}

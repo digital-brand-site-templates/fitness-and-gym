@@ -1,0 +1,15 @@
+Pulsiron — Fitness & Gym HTML Template
+======================================
+
+Version 1.0 — 2026-09-20
+-------------------
+
+Initial release.
+
+- 13 pages: index.html, about.html, classes.html, class-single.html, trainers.html, trainer-single.html, schedule.html, pricing.html, blog.html, blog-single.html, contact.html, 404.html, thank-you.html
+- 1 HTML email template(s): email-membership.html
+- Tailwind CSS v4, vanilla JavaScript (no jQuery), self-hosted fonts (Bebas Neue, Barlow) and Tabler Icons
+- Fully responsive 320–1440px; tested in current Chrome, Firefox, Safari and Edge
+- Sticky header that compacts on scroll, Hero slider, Animated stat counters, Tabs, Monthly / yearly pricing toggle, Testimonials slider, Working forms with validation + success state, Scroll reveal, Back-to-top button, Lazy-loaded images, backgrounds, iframes and video with fade-in, Cookie consent banner, Modal dialogs
+- Design tokens in css/style.css (:root) — colours, fonts, radius and spacing in one place
+- Photographs: free stock (Unsplash / Pexels / Pixabay), credited in IMAGE-CREDITS.txt

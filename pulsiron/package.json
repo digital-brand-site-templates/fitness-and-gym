@@ -1,0 +1,40 @@
+{
+  "name": "tpl-fitness-and-gym-pulsiron",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve src",
+    "build": "npx @tailwindcss/cli -i src/src/tailwind.css -o src/css/tailwind.css --minify",
+    "verify": "npx @tailwindcss/cli -i src/src/tailwind.css -o src/css/tailwind.css --minify && echo build ok"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "agentMeta": {
+    "category": "fitness-and-gym",
+    "idealFor": [
+      "gyms",
+      "fitness studios",
+      "personal trainers",
+      "CrossFit and boxing clubs"
+    ],
+    "buildOutputDir": "src",
+    "customizationMap": {
+      "themeColors": "src/src/tailwind.css",
+      "siteMetadata": "src/index.html (<head> title and meta tags)",
+      "navigation": "src/index.html (<header>/<nav> block, repeated in each page)",
+      "pagesDir": "src"
+    },
+    "requiredClientInputs": [
+      "gymName",
+      "primaryColorHex",
+      "logoUrl",
+      "membershipEmail"
+    ]
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  }
+}
